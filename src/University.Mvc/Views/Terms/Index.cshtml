@@ -1,0 +1,38 @@
+﻿@model IEnumerable<University.Core.Domain.Term>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Terms</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TermCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TermCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Semester.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

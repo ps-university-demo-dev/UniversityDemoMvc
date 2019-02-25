@@ -1,0 +1,64 @@
+﻿[
+  {
+    "termCode": "FA2013",
+    "semesterCode": "FA",
+    "year": 2013  
+  },
+  {
+    "termCode": "SP2014",
+    "semesterCode": "SP",
+    "year": 2014
+  },
+  {
+    "termCode": "FA2014",
+    "semesterCode": "FA",
+    "year": 2014  
+  },
+  {
+    "termCode": "SP2015",
+    "semesterCode": "SP",
+    "year": 2015
+  },
+  {
+    "termCode": "FA2015",
+    "semesterCode": "FA",
+    "year": 2015  
+  },
+  {
+    "termCode": "SP2016",
+    "semesterCode": "SP",
+    "year": 2016
+  },
+
+  {
+    "termCode": "FA2016",
+    "semesterCode": "FA",
+    "year": 2016  
+  },
+  {
+    "termCode": "SP2017",
+    "semesterCode": "SP",
+    "year": 2017
+  },
+
+  {
+    "termCode": "FA2017",
+    "semesterCode": "FA",
+    "year": 2017  
+  },
+  {
+    "termCode": "SP2018",
+    "semesterCode": "SP",
+    "year": 2018
+  },
+  {
+    "termCode": "FA2018",
+    "semesterCode": "FA",
+    "year": 2018  
+  },
+  {
+    "termCode": "SP2019",
+    "semesterCode": "SP",
+    "year": 2019
+  }
+]

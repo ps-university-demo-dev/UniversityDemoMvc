@@ -1,0 +1,38 @@
+﻿[
+  {
+    "departmentCode": "MA",
+    "departmentName":  "Mathematics"
+  },
+  {
+    "departmentCode": "PH",
+    "departmentName": "Physics"
+  },
+  {
+    "departmentCode": "CH",
+    "departmentName": "Chemistry"
+  },
+  {
+    "departmentCode": "CM",
+    "departmentName": "Chemical Engineering"
+  },
+  {
+    "departmentCode": "EE",
+    "departmentName": "Electrical Engineering"
+  },
+  {
+    "departmentCode": "ME",
+    "departmentName": "Mechanical Engineering"
+  },
+  {
+    "departmentCode": "CE",
+    "departmentName":  "Civil Engineering"
+  },
+  {
+    "departmentCode": "LA",
+    "departmentName":  "Liberal Arts"
+  },
+  {
+    "departmentCode": "MG",
+    "departmentName":  "Engineering Management"
+  }
+]

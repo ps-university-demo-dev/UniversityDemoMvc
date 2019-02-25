@@ -1,0 +1,32 @@
+﻿[
+  {
+    "gradeCode":  "A",
+    "points": 4.0,
+    "includeInGpa":  true
+  },
+  {
+    "gradeCode": "B",
+    "points": 3.0,
+    "includeInGpa": true
+  },
+  {
+    "gradeCode": "C",
+    "points": 2.0,
+    "includeInGpa": true
+  },
+  {
+    "gradeCode": "D",
+    "points": 1.0,
+    "includeInGpa": true
+  },
+  {
+    "gradeCode": "F",
+    "points": 0.0,
+    "includeInGpa": true
+  },
+    {
+    "gradeCode":  "W",
+    "points": null,
+    "includeInGpa":  false
+  }
+]

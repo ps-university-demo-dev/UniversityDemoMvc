@@ -1,0 +1,14 @@
+﻿[
+  {
+    "code": "FA",
+    "name":  "Fall"
+  },
+  {
+    "code": "SP",
+    "name": "Spring"
+  },
+  {
+    "code": "SU",
+    "name":  "Summer"
+  }
+]

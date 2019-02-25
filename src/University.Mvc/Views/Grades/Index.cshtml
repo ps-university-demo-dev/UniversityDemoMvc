@@ -1,0 +1,39 @@
+﻿@model IEnumerable<University.Core.Domain.Grade>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Grades</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GradeCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Points)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IncludeInGpa)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GradeCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Points)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IncludeInGpa)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
