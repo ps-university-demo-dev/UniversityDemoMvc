@@ -18,6 +18,10 @@ namespace University.Core.Domain
         /// </summary>
         public String GradeCode { get; set; }
 
+
+        public String Description { get; set; }
+
+
         /// <summary>
         /// The number of points the grade is worth (A = 4.0, B = 3.0, etc)
         /// </summary>

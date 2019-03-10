@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using University.Data.JsonFile;
+using University.Data.EF;
 
 namespace University.Mvc
 {
@@ -38,8 +38,9 @@ namespace University.Mvc
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            var dataDirectory = Path.Combine(HostingEnvironment.ContentRootPath, "bin\\Debug\\netcoreapp2.2\\JsonData");
-            services.RegisterJsonFilesDataAccessClasses(dataDirectory);
+            var connectionString = "DataSource=:memory:";
+            services.ConfigureSqlLiteDatabase(connectionString);
+            services.ConfigureRepositories();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

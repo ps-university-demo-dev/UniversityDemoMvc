@@ -4,8 +4,10 @@ using System.Text;
 
 namespace University.Core.Domain
 {
-    public class Courses
+    public class Course
     {
+
+        public String CourseId { get; set; }
 
         public String DepartmentCode { get; set; }
 

@@ -1,0 +1,1157 @@
+﻿[
+  {
+    "departmentCode": "CE",
+    "courseNumber": "205",
+    "courseName": "Surveying",
+    "credits": 3,
+    "courseId": "CE205"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "306",
+    "courseName": "Advanced Surveying",
+    "credits": 3,
+    "courseId": "CE306"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "311",
+    "courseName": "Environmental Engineering",
+    "credits": 4,
+    "courseId": "CE311"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "321",
+    "courseName": "Structures I",
+    "credits": 3,
+    "courseId": "CE321"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "322",
+    "courseName": "Structures II",
+    "credits": 3,
+    "courseId": "CE322"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "331",
+    "courseName": "Enginering Properties of Soils",
+    "credits": 4,
+    "courseId": "CE331"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "337",
+    "courseName": "Contruction Materials",
+    "credits": 3,
+    "courseId": "CE337"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "414",
+    "courseName": "Pollution Engineering",
+    "credits": 4,
+    "courseId": "CE414"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "419",
+    "courseName": "Civil Engineering Technology Systems",
+    "credits": 3,
+    "courseId": "CE419"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "425",
+    "courseName": "Structural Design",
+    "credits": 4,
+    "courseId": "CE425"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "428",
+    "courseName": "Engineering Hydrology",
+    "credits": 4,
+    "courseId": "CE428"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "442",
+    "courseName": "Transportation Engineering",
+    "credits": 3,
+    "courseId": "CE442"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "451",
+    "courseName": "Senior Project",
+    "credits": 3,
+    "courseId": "CE451"
+  },
+  {
+    "departmentCode": "CE",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "CE452"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "101",
+    "courseName": "General Chemistry",
+    "credits": 4,
+    "courseId": "CH101"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "102",
+    "courseName": "General Chemistry II",
+    "credits": 4,
+    "courseId": "CH102"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "201",
+    "courseName": "Analytical Chemistry",
+    "credits": 4,
+    "courseId": "CH201"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "251",
+    "courseName": "Intermediate Chemistry Lab Procedures",
+    "credits": 3,
+    "courseId": "CH251"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "311",
+    "courseName": "Organic Chemistry I",
+    "credits": 4,
+    "courseId": "CH311"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "312",
+    "courseName": "Organic Chemistry II",
+    "credits": 4,
+    "courseId": "CH312"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "321",
+    "courseName": "Physical Chemistry I",
+    "credits": 4,
+    "courseId": "CH321"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "322",
+    "courseName": "Physical Chemistry II",
+    "credits": 4,
+    "courseId": "CH322"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "324",
+    "courseName": "Glassblowing",
+    "credits": 3,
+    "courseId": "CH324"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "421",
+    "courseName": "Advanced Inorganic Chemistry",
+    "credits": 4,
+    "courseId": "CH421"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "422",
+    "courseName": "Advanced Analytical Chemistry",
+    "credits": 3,
+    "courseId": "CH422"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "431",
+    "courseName": "Biochemistry I",
+    "credits": 4,
+    "courseId": "CH431"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "432",
+    "courseName": "Biochemistry II",
+    "credits": 4,
+    "courseId": "CH432"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "441",
+    "courseName": "Spectrometric Identification",
+    "credits": 4,
+    "courseId": "CH441"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "451",
+    "courseName": "Senior Project",
+    "credits": 3,
+    "courseId": "CH451"
+  },
+  {
+    "departmentCode": "CH",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "CH452"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "201",
+    "courseName": "Chemical Process Analysis",
+    "credits": 3,
+    "courseId": "CM201"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "202",
+    "courseName": "Chemical Transport",
+    "credits": 3,
+    "courseId": "CM202"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "311",
+    "courseName": "Chemical Seperation Processes",
+    "credits": 3,
+    "courseId": "CM311"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "331",
+    "courseName": "Thermodynamics",
+    "credits": 3,
+    "courseId": "CM331"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "403",
+    "courseName": "Transport II",
+    "credits": 3,
+    "courseId": "CM403"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "409",
+    "courseName": "Chemical Enginering Lab",
+    "credits": 3,
+    "courseId": "CM409"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "425",
+    "courseName": "Polymers",
+    "credits": 3,
+    "courseId": "CM425"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "431",
+    "courseName": "Process Dynamics and Control",
+    "credits": 3,
+    "courseId": "CM431"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "441",
+    "courseName": "Chemical Process Design I",
+    "credits": 3,
+    "courseId": "CM441"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "442",
+    "courseName": "Chemical Process Design II",
+    "credits": 3,
+    "courseId": "CM442"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "451",
+    "courseName": "Senior Project",
+    "credits": 3,
+    "courseId": "CM451"
+  },
+  {
+    "departmentCode": "CM",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "CM452"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "101",
+    "courseName": "Introductory Programming",
+    "credits": 3,
+    "courseId": "CS101"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "102",
+    "courseName": "Object Orientated Programming",
+    "credits": 3,
+    "courseId": "CS102"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "103",
+    "courseName": "Programming Principles for Engineers",
+    "credits": 3,
+    "courseId": "CS103"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "104",
+    "courseName": "Programming for Science Majors",
+    "credits": 3,
+    "courseId": "CS104"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "201",
+    "courseName": "Data Structures and Analysis",
+    "credits": 4,
+    "courseId": "CS201"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "211",
+    "courseName": "Systems Programming",
+    "credits": 3,
+    "courseId": "CS211"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "212",
+    "courseName": "Database Systems",
+    "credits": 3,
+    "courseId": "CS212"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "307",
+    "courseName": "Advanced Programming Techniques",
+    "credits": 4,
+    "courseId": "CS307"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "308",
+    "courseName": "Internet Computing",
+    "credits": 3,
+    "courseId": "CS308"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "321",
+    "courseName": "Operating Systems",
+    "credits": 4,
+    "courseId": "CS321"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "332",
+    "courseName": "Networks and Network Protocols",
+    "credits": 4,
+    "courseId": "CS332"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "341",
+    "courseName": "Software Engineering",
+    "credits": 3,
+    "courseId": "CS341"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "418",
+    "courseName": "Systems Analysis",
+    "credits": 4,
+    "courseId": "CS418"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "424",
+    "courseName": "Parallel Computing",
+    "credits": 3,
+    "courseId": "CS424"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "429",
+    "courseName": "Computer Architecture",
+    "credits": 4,
+    "courseId": "CS429"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "437",
+    "courseName": "Artificial Intelligence",
+    "credits": 3,
+    "courseId": "CS437"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "451",
+    "courseName": "Senior Project I",
+    "credits": 3,
+    "courseId": "CS451"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "452",
+    "courseName": "Senior Project I",
+    "credits": 3,
+    "courseId": "CS452"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "461",
+    "courseName": "Advanced Algorithms",
+    "credits": 4,
+    "courseId": "CS461"
+  },
+  {
+    "departmentCode": "CS",
+    "courseNumber": "463",
+    "courseName": "Theory of Computation",
+    "credits": 3,
+    "courseId": "CS463"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "201",
+    "courseName": "Introductory Circuits",
+    "credits": 4,
+    "courseId": "EE201"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "202",
+    "courseName": "Circuits II",
+    "credits": 4,
+    "courseId": "EE202"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "205",
+    "courseName": "Circuits I for Science Majors",
+    "credits": 4,
+    "courseId": "EE205"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "209",
+    "courseName": "Circuits for Engineers",
+    "credits": 4,
+    "courseId": "EE209"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "211",
+    "courseName": "Digital Logic",
+    "credits": 4,
+    "courseId": "EE211"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "231",
+    "courseName": "Electricity and Magnetism",
+    "credits": 4,
+    "courseId": "EE231"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "301",
+    "courseName": "Microelectronic Circuits",
+    "credits": 4,
+    "courseId": "EE301"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "306",
+    "courseName": "Circuits II for Science Majors",
+    "credits": 4,
+    "courseId": "EE306"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "314",
+    "courseName": "Microprocessors",
+    "credits": 4,
+    "courseId": "EE314"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "315",
+    "courseName": "Digital Design",
+    "credits": 3,
+    "courseId": "EE315"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "332",
+    "courseName": "Signals and Waves",
+    "credits": 4,
+    "courseId": "EE332"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "347",
+    "courseName": "Control Systems",
+    "credits": 3,
+    "courseId": "EE347"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "412",
+    "courseName": "Digital Hardware Design II",
+    "credits": 3,
+    "courseId": "EE412"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "414",
+    "courseName": "Computer Architecture",
+    "credits": 3,
+    "courseId": "EE414"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "423",
+    "courseName": "Advanced Communications",
+    "credits": 3,
+    "courseId": "EE423"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "424",
+    "courseName": "Digital Signal Processing",
+    "credits": 3,
+    "courseId": "EE424"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "434",
+    "courseName": "Power Electronics",
+    "credits": 3,
+    "courseId": "EE434"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "435",
+    "courseName": "Electronic Materials Science",
+    "credits": 3,
+    "courseId": "EE435"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "451",
+    "courseName": "Senior Project",
+    "credits": 3,
+    "courseId": "EE451"
+  },
+  {
+    "departmentCode": "EE",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "EE452"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "101",
+    "courseName": "College Writing",
+    "credits": 3,
+    "courseId": "LA101"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "102",
+    "courseName": "Presentations and Public Speaking",
+    "credits": 3,
+    "courseId": "LA102"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "211",
+    "courseName": "World History I",
+    "credits": 3,
+    "courseId": "LA211"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "212",
+    "courseName": "World History II",
+    "credits": 3,
+    "courseId": "LA212"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "313",
+    "courseName": "World History III",
+    "credits": 3,
+    "courseId": "LA313"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "321",
+    "courseName": "Microeconomics",
+    "credits": 3,
+    "courseId": "LA321"
+  },
+  {
+    "departmentCode": "LA",
+    "courseNumber": "322",
+    "courseName": "Macroeconomics",
+    "credits": 3,
+    "courseId": "LA322"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "101",
+    "courseName": "Calculus I",
+    "credits": 4,
+    "courseId": "MA101"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "102",
+    "courseName": "Calculus II",
+    "credits": 4,
+    "courseId": "MA102"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "201",
+    "courseName": "Differential Equations",
+    "credits": 3,
+    "courseId": "MA201"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "202",
+    "courseName": "Calculus III",
+    "credits": 3,
+    "courseId": "MA202"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "211",
+    "courseName": "Linear Algebra",
+    "credits": 3,
+    "courseId": "MA211"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "221",
+    "courseName": "Probability and Statistics",
+    "credits": 3,
+    "courseId": "MA221"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "222",
+    "courseName": "Engineering Statistics",
+    "credits": 3,
+    "courseId": "MA222"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "251",
+    "courseName": "Statistics for Engineers",
+    "credits": 3,
+    "courseId": "MA251"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "311",
+    "courseName": "Abstract Algebra",
+    "credits": 3,
+    "courseId": "MA311"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "321",
+    "courseName": "Data Analysis",
+    "credits": 3,
+    "courseId": "MA321"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "331",
+    "courseName": "Number Theory",
+    "credits": 3,
+    "courseId": "MA331"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "332",
+    "courseName": "Numerical Analysis",
+    "credits": 3,
+    "courseId": "MA332"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "352",
+    "courseName": "Advanced Engineering Mathematics",
+    "credits": 3,
+    "courseId": "MA352"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "363",
+    "courseName": "Advanced Math for Chemistry Majors",
+    "credits": 3,
+    "courseId": "MA363"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "365",
+    "courseName": "Advanced Math for Physics",
+    "credits": 3,
+    "courseId": "MA365"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "441",
+    "courseName": "Complex Variables",
+    "credits": 3,
+    "courseId": "MA441"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "442",
+    "courseName": "Partial Differential Equations",
+    "credits": 3,
+    "courseId": "MA442"
+  },
+  {
+    "departmentCode": "MA",
+    "courseNumber": "466",
+    "courseName": "Mathematical Physics II",
+    "credits": 3,
+    "courseId": "MA466"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "201",
+    "courseName": "Engineering Statics",
+    "credits": 3,
+    "courseId": "ME201"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "202",
+    "courseName": "Engineering Dynamics",
+    "credits": 3,
+    "courseId": "ME202"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "205",
+    "courseName": "Engineering Graphics and Systems",
+    "credits": 3,
+    "courseId": "ME205"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "311",
+    "courseName": "Engineering Mechanics of Materials",
+    "credits": 4,
+    "courseId": "ME311"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "315",
+    "courseName": "Mechanical Engineering Lab",
+    "credits": 2,
+    "courseId": "ME315"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "317",
+    "courseName": "Kinematics and Machine Dynamics",
+    "credits": 3,
+    "courseId": "ME317"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "321",
+    "courseName": "Thermodynamics I",
+    "credits": 3,
+    "courseId": "ME321"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "322",
+    "courseName": "Heat Transfer",
+    "credits": 3,
+    "courseId": "ME322"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "331",
+    "courseName": "Machine Design",
+    "credits": 3,
+    "courseId": "ME331"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "341",
+    "courseName": "Fluid Mechanics",
+    "credits": 4,
+    "courseId": "ME341"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "414",
+    "courseName": "Advanced Mechanics of Materials",
+    "credits": 4,
+    "courseId": "ME414"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "421",
+    "courseName": "Thermodynamics II",
+    "credits": 3,
+    "courseId": "ME421"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "423",
+    "courseName": "Fluid System Design",
+    "credits": 3,
+    "courseId": "ME423"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "432",
+    "courseName": "Machine Design II",
+    "credits": 3,
+    "courseId": "ME432"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "447",
+    "courseName": "Engineering for the Environment",
+    "credits": 4,
+    "courseId": "ME447"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "451",
+    "courseName": "Senior Project I",
+    "credits": 3,
+    "courseId": "ME451"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "ME452"
+  },
+  {
+    "departmentCode": "ME",
+    "courseNumber": "461",
+    "courseName": "Engineering Computation",
+    "credits": 3,
+    "courseId": "ME461"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "210",
+    "courseName": "Principles of Accounting",
+    "credits": 4,
+    "courseId": "MG210"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "211",
+    "courseName": "Business Finance",
+    "credits": 4,
+    "courseId": "MG211"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "311",
+    "courseName": "Project Management",
+    "credits": 3,
+    "courseId": "MG311"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "321",
+    "courseName": "Principles of Management",
+    "credits": 3,
+    "courseId": "MG321"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "323",
+    "courseName": "Entrepreneurship",
+    "credits": 2,
+    "courseId": "MG323"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "324",
+    "courseName": "Organizational Development",
+    "credits": 3,
+    "courseId": "MG324"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "327",
+    "courseName": "Enterprise Planning",
+    "credits": 3,
+    "courseId": "MG327"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "331",
+    "courseName": "Quality Management Systems",
+    "credits": 3,
+    "courseId": "MG331"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "341",
+    "courseName": "Management Information Systems",
+    "credits": 4,
+    "courseId": "MG341"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "381",
+    "courseName": "Marketing",
+    "credits": 2,
+    "courseId": "MG381"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "410",
+    "courseName": "Scientific Methodology",
+    "credits": 3,
+    "courseId": "MG410"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "411",
+    "courseName": "Engineering Management",
+    "credits": 3,
+    "courseId": "MG411"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "412",
+    "courseName": "Business Strategy",
+    "credits": 3,
+    "courseId": "MG412"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "421",
+    "courseName": "Engineering Management Ethics",
+    "credits": 3,
+    "courseId": "MG421"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "423",
+    "courseName": "Business Plan Development",
+    "credits": 3,
+    "courseId": "MG423"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "424",
+    "courseName": "Business Strategy Development",
+    "credits": 3,
+    "courseId": "MG424"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "425",
+    "courseName": "International Business",
+    "credits": 3,
+    "courseId": "MG425"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "443",
+    "courseName": "Business Analytics",
+    "credits": 4,
+    "courseId": "MG443"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "451",
+    "courseName": "Senior Project",
+    "credits": 3,
+    "courseId": "MG451"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "452",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "MG452"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "461",
+    "courseName": "Employment Law",
+    "credits": 3,
+    "courseId": "MG461"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "463",
+    "courseName": "Government Regulations and Relations",
+    "credits": 2,
+    "courseId": "MG463"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "465",
+    "courseName": "Patent and Intellecual Property Law",
+    "credits": 2,
+    "courseId": "MG465"
+  },
+  {
+    "departmentCode": "MG",
+    "courseNumber": "471",
+    "courseName": "Advanced Business Communication",
+    "credits": 3,
+    "courseId": "MG471"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "101",
+    "courseName": "Physics I",
+    "credits": 3,
+    "courseId": "PH101"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "102",
+    "courseName": "Physcis II",
+    "credits": 3,
+    "courseId": "PH102"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "202",
+    "courseName": "Modern Physics",
+    "credits": 3,
+    "courseId": "PH202"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "211",
+    "courseName": "Mechanics",
+    "credits": 3,
+    "courseId": "PH211"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "321",
+    "courseName": "Electricity and Magnetism",
+    "credits": 3,
+    "courseId": "PH321"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "322",
+    "courseName": "Electricity and Magnetism II",
+    "credits": 3,
+    "courseId": "PH322"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "331",
+    "courseName": "Thermodynamics",
+    "credits": 3,
+    "courseId": "PH331"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "341",
+    "courseName": "Modern Physics II",
+    "credits": 3,
+    "courseId": "PH341"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "381",
+    "courseName": "Advanced Physics Lab",
+    "credits": 3,
+    "courseId": "PH381"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "441",
+    "courseName": "Quantum Mechanics",
+    "credits": 3,
+    "courseId": "PH441"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "445",
+    "courseName": "Nuclear Physics",
+    "credits": 3,
+    "courseId": "PH445"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "451",
+    "courseName": "Solid State Physics",
+    "credits": 3,
+    "courseId": "PH451"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "461",
+    "courseName": "Computational Physics",
+    "credits": 3,
+    "courseId": "PH461"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "471",
+    "courseName": "Senior Project I",
+    "credits": 3,
+    "courseId": "PH471"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "472",
+    "courseName": "Senior Project II",
+    "credits": 3,
+    "courseId": "PH472"
+  },
+  {
+    "departmentCode": "PH",
+    "courseNumber": "482",
+    "courseName": "Environmental Physics",
+    "credits": 3,
+    "courseId": "PH482"
+  }
+]

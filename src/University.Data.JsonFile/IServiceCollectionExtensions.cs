@@ -15,6 +15,7 @@ namespace University.Data.JsonFile
             services.AddSingleton<ISemesterRepository>(serviceProvider => new SemesterRepository(dataDirectory));
             services.AddSingleton<ITermRepository>(serviceProvider => new TermRepository(dataDirectory));
             services.AddSingleton<IDepartmentRepository>(serviceProvider => new DepartmentRepository(dataDirectory));
+            services.AddSingleton<ICourseRepository>(serviceProvider => new CourseRepository(dataDirectory));
 
         }
 

@@ -16,7 +16,6 @@
   <ItemGroup>
     <ProjectReference Include="..\University.Core\University.Core.csproj" />
     <ProjectReference Include="..\University.Data.EF\University.Data.EF.csproj" />
-    <ProjectReference Include="..\University.Data.JsonFile\University.Data.JsonFile.csproj" />
   </ItemGroup>
 
 </Project>
